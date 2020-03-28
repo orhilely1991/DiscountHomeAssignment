@@ -9,7 +9,7 @@ This application shows data on popular movies by genre. see the movie overview a
 
 - [x] Get all popular movies by genre
 - [x] Get movies details
-- [x] Watch movie trailer
+- [x] Watch movie trailers
 
 ## Installation
 
