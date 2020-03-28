@@ -1,0 +1,44 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - lottie-ios (3.1.0)
+  - SDWebImage (3.8.3):
+    - SDWebImage/Core (= 3.8.3)
+  - SDWebImage/Core (3.8.3)
+  - YoutubePlayer-in-WKWebView (0.3.0)
+
+DEPENDENCIES:
+  - AFNetworking
+  - lottie-ios
+  - SDWebImage (~> 3.6)
+  - YoutubePlayer-in-WKWebView (~> 0.3.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - lottie-ios
+    - SDWebImage
+    - YoutubePlayer-in-WKWebView
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  lottie-ios: 9467723922dfff46f6d4e3019c32594a62440b7c
+  SDWebImage: a72e880a8fe0f7fc31efe15aaed443c074d2a80c
+  YoutubePlayer-in-WKWebView: 17a33b2fa619d357c9ddd763942ce556660facae
+
+PODFILE CHECKSUM: 9800401fbbe38b0369f3325506a22788a2be7872
+
+COCOAPODS: 1.5.3
