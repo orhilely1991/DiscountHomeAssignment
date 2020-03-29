@@ -2,7 +2,6 @@
 
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/EZSwiftExtensions.svg)](https://img.shields.io/cocoapods/v/LFAlertController.svg)  
 [![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
-[swift-url]: https://swift.org/
 
 This application shows data on popular movies by genre. see the movie overview and watch the trailer.
 
